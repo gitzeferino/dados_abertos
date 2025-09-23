@@ -1,0 +1,31 @@
+DICIONÁRIO DE DADOS - PASTA UFRRJ_DESPESAS
+
+A pasta contém informações de despesas da UFRRJ organizadas em arquivos CSV.
+Eles estão estruturados da seguinte forma:
+
+1. Arquivos mensais de despesas (2024):
+   - despesas_jan.csv
+   - despesas_fev.csv
+   - despesas_mar.csv
+   - despesas_abr.csv
+   - despesas_mai.csv
+   - despesas_jun.csv
+   - despesas_jul.csv
+   - despesas_ago.csv
+   - despesas_set.csv
+   - despesas_out.csv
+   - despesas_nov.csv
+   - despesas_dez.csv
+
+   Conteúdo esperado: valores de despesas detalhados por mês, possivelmente
+   com colunas como: data, categoria, subcategoria, valor, órgão responsável.
+
+2. Arquivo consolidado por órgão:
+   - despesasPorOrgao.csv
+
+   Conteúdo esperado: despesas totais agrupadas por órgão da UFRRJ,
+   permitindo análise comparativa entre unidades.
+
+OBJETIVO DA PASTA:
+Centralizar os registros financeiros da UFRRJ em 2024, separados por mês e
+também consolidados por órgão, facilitando análises de gastos e prestação de contas.
